@@ -13,7 +13,7 @@ The analysis was performed on a dataset containing:
 
 ## Tech Stack & Methodology:
 
-### 1. Data Analysis with SQL 
+### 1. Data Analysis with SQL. [View Ecommerce_analysis_queries.sql]
 The data was processed in BigQuery using  CTEs, and conditional logic. You can find the source code in analysis_queries.sql.
 I developed a series of SQL queries to extract business metrics. The analysis includes identifying high-priority orders, performance tracking for VIP transactions, a
 nd category-level revenue breakdowns.
